@@ -12,7 +12,13 @@
 * HTTP 데이터 요청 방식 
   * GET, POST, HTTP Message body
   * 서블릿 환경 구성
+
 </br>
+
+## TIL(34th day)(2021.11.25)✔
+* HTTPServletRequest
+* HTTPServletResponse
+* HTTP-API 
 
 # MyBlog 😊
 
