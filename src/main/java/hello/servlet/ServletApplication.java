@@ -10,6 +10,7 @@ public class ServletApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServletApplication.class, args);
+		System.out.println("가나다라마바사");
 	}
 
 }
