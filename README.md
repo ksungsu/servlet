@@ -20,6 +20,11 @@
 * HTTPServletResponse
 * HTTP-API 
 
+## TIL(35th day)(2021.11.26)✔
+* 서블릿 + 자바
+* 서블릿 + JSP
+
+
 # MyBlog 😊
 
 https://hardkeepgoing.tistory.com/
