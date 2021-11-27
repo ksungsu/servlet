@@ -24,6 +24,12 @@
 * 서블릿 + 자바
 * 서블릿 + JSP
 
+## TIL(36th day)(2021.11.27)✔
+* 서블릿 + JSP를 이용한 MVC 생성
+* MVC 프레임워크 생성
+ * FrontController 서블릿 생성
+ * viewDispatcher 메소드 생성으로 중복 제거
+ * 서블릿 종속성을 제거하고, Map<key, value> 방식을 이용한 컨트롤러  
 
 # MyBlog 😊
 
