@@ -13,6 +13,8 @@ public class OldController implements Controller {
     @Override
     public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response) throws Exception {
         System.out.println("OldController.handleRequest");
-        return null;
+
+        //view-resolver + JSP render 기능
+        return new ModelAndView("new-form");
     }
 }
